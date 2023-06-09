@@ -36,7 +36,7 @@ h2 {
 }
 
 .threehoriz {
-  width: 33.3%;
+  width: 33.2%;
   height: 100%;
 }
 
@@ -147,19 +147,22 @@ h2 {
 
 /* QUESTION 4 */
 .mexico-green {
-  
   background-color: #006341;
+  width: 33.3%;
+  height: 100%;
 }
 
 .mexico-img {
   /* TODO */
-  max-width: 33.3%;
   align-self: center;
+  max-width: 33.3%;
+ 
 }
 
 .mexico-red {
-
   background-color: #ce1126;
+  width: 33.3%;
+  height: 100%;
 }
 
 /* QUESTION 6 */
