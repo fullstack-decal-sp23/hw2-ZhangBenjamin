@@ -36,7 +36,7 @@ h2 {
 }
 
 .threehoriz {
-  width: 33.3%;
+  width: 33.2%;
 }
 
 .narrow {
@@ -62,6 +62,10 @@ h2 {
 
 .red {
   background-color: red;
+}
+
+.lightblue {
+  background-color: lightblue;
 }
 
 .orange {
@@ -124,14 +128,17 @@ h2 {
 /* BEGIN QUESTION 3 */
 
 .romania-blue {
+  width: 33.3%;
   background-color: #002c84;
 }
 
 .romania-yellow {
+  width: 33.3%;
   background-color: #ffcf00;
 }
 
 .romania-red {
+  width: 33.3%;
   background-color: #e10017;
 }
 
@@ -139,7 +146,6 @@ h2 {
 
 /* QUESTION 4 */
 .mexico-green {
-  width: 33.3%;
   background-color: #006341;
 }
 
@@ -150,7 +156,6 @@ h2 {
 }
 
 .mexico-red {
-  width: 33.3%;
   background-color: #ce1126;
 }
 
@@ -168,11 +173,13 @@ h2 {
 .flag1 {
   background-color: red;
   /* TODO */
+  margin-left: 5px;
 }
 
 .flag2 {
   background-color: blue;
   /* TODO */
+  margin-right: 5px;
 }
 /* For padding practice */
 .padding-container {
@@ -180,4 +187,5 @@ h2 {
   background-color: lightblue;
   background-clip: content-box, padding-box;
   /* TODO */
+  padding: 60px;
 }
