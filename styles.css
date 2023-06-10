@@ -181,13 +181,15 @@ h2 {
 .flag1 {
   background-color: red;
   /* TODO */
-  margin: 5px;
+  margin-right: 10px;
+  margin-left: -168px;
 }
 
 .flag2 {
   background-color: blue;
   /* TODO */
-  margin: 5px;
+  margin-left: 10px;
+  margin-right: -165px;
 }
 /* For padding practice */
 .padding-container {
